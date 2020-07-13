@@ -15,11 +15,5 @@ require 'pry'
   # }
   
 def remove_strawberry(contacts)
-  contacts.each do |key, value|
-    if value.include? strawberry
-      .chomp
-    end
-  end
-end
-remove_strawberry(contacts)
+
 end
